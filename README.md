@@ -39,8 +39,8 @@
 
 1.  **Клонируйте или скачайте репозиторий:**
     ```bash
-    git clone <url-репозитория>
-    cd svoboda_hybrid_bot
+    git clone https://github.com/UserBanshi/svoboda-bot.git
+    cd svoboda-bot
     ```
 2.  **Создайте и активируйте виртуальное окружение (рекомендуется):**
     ```bash
